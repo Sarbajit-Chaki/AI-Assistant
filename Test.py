@@ -1,3 +1,4 @@
+#Descibing how to chat with gemini
 import google.generativeai as genai
 GOOGLE_API_KEY = "<<your_google_generative_ai_api_key>>"
 genai.configure(api_key=GOOGLE_API_KEY)
